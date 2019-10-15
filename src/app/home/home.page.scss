@@ -1,0 +1,15 @@
+@media only screen and (max-width: 800px) {
+    ion-title {
+      background-color: red;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    ion-title {
+      background-color: green;
+    }
+  }
+  @media only screen and (max-width: 800px){
+    ion-content{
+        background-color: brown;
+    }
+  }
